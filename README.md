@@ -1,6 +1,5 @@
 # Shorts Limiter
 
-
 ## Features
 
 - **Daily time limit** — Set a custom daily limit (1–60 minutes) for YouTube Shorts
