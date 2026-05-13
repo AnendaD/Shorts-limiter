@@ -1,6 +1,5 @@
 # Shorts Limiter
 
----
 
 ## Features
 
