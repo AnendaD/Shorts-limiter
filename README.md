@@ -1,7 +1,5 @@
 # Shorts Limiter
 
-A Chrome extension that helps you take control of your time on YouTube Shorts by setting a daily watch limit and automatically redirecting you to a video of your choice when the limit is reached.
-
 ---
 
 ## Features
